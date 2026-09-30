@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.0.33",
-  "minimumAllowedVersion": "1.0.33",
-  "downloadUrl": "https://github.com/chadgpt42/clairvia_dcw_combiner/raw/main/ClairviaDCWCombiner-1.0.33-Portable.zip",
-  "sha256": "21a086d88c1b9db18d44a2dbdda6a815689da12952b8be357dd8838fbb9e7935",
-  "message": "Extract the portable package and run Start-ClairviaDCWCombiner.ps1. It runs without an installer or administrator access."
+  "latestVersion": "1.0.35",
+  "minimumAllowedVersion": "1.0.35",
+  "downloadUrl": "https://github.cerner.com/ConsultingAnalytics/config_center/raw/main/crq_upload/ClairviaDCWCombiner-1.0.35-Portable.zip",
+  "sha256": "5f1237244d1f3ebee06b8cbadc2d3d9faecb861bd7b8b7c030520e3c0ea4f0d6",
+  "message": "Automatic update downloads are disabled. Download the portable ZIP from the private Cerner GitHub repository, extract it, and run Start-ClairviaDCWCombiner.bat."
 }
